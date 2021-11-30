@@ -2,7 +2,7 @@
 
 It's real-time face recognition using the python library which detects the faces along with the name of that person.
 
-Check out the following python docs for more info: [Click Here]('https://pypi.org/project/face-recognition/')
+Check out the following python docs for more info: [Click Here](https://pypi.org/project/face-recognition/)
 
 ## Demo
 <p align="center" width="100%">
@@ -60,10 +60,10 @@ We will use the `face_detection_from_image.py` script to recognize faces from im
 
 ### Demo of Face Recognition on Images
 <table align='center'>
-    <tr>
-        <td><img src='Output_Image/barack_output.jpg' width=500 height=500></td>
-        <td><img src='Output_Image/yash_&_vihan_output.jpg' width=500 height=500></td>
-    </tr>
+  <tr>
+    <td><img src='Output_Image/barack_output.jpg' width=450 height=450></td>
+    <td><img src='Output_Image/yash_&_vihan_output.jpg' width=450 height=450></td>
+  </tr>
 </table>
 
 There are two arguments that you can pass from the cmd/terminal:\
