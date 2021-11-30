@@ -61,8 +61,8 @@ We will use the `face_detection_from_image.py` script to recognize faces from im
 ### Demo of Face Recognition on Images
 <table align='center'>
     <tr>
-        <td><img src='Output_Image/barack_output.jpg'></td>
-        <td><img src='Output_Image/yash_&_vihan_output.jpg'></td>
+        <td><img src='Output_Image/barack_output.jpg' width=500 height=500></td>
+        <td><img src='Output_Image/yash_&_vihan_output.jpg' width=500 height=500></td>
     </tr>
 </table>
 
@@ -82,8 +82,8 @@ python face_detection_from_image.py --img_path 'test_images/yash_&_vihan.jpeg' -
 python face_detection_from_image.py --img_path 'test_images/yash.jpeg'
 ```
 
-## Face Recognition On Images
-We will use the `face_detection_from_image.py` script to recognize faces from images.
+## Face Recognition On Web Camera
+We will use the `face_detection_from_webcam.py` script to recognize faces from web camera.
 
 ### Demo of Face Recognition on Web Camera
 <p align="center" width="100%">
